@@ -6,7 +6,7 @@ programa
 	inclua biblioteca Util --> util
 
 	const cadeia PROGRAMA = "IRPF Cálculo "
-	const cadeia DATA_PATCH = "20/08/2021 - 22:00"
+	const cadeia DATA_PATCH = "21/08/2021 - 16:58"
 	const real VERSAO = 0.01
 	const cadeia RELEASE = "beta"
 	const cadeia AUTOR = "HakamRashid"
